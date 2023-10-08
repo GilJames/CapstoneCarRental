@@ -1,1 +1,1 @@
-# CapstoneCarRental
+# Capstone
